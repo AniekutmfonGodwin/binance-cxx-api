@@ -25,7 +25,7 @@ This version is derived from https://github.com/binance-exchange/binacpp with sl
  * Refactored entire API
  * Maintaining thread safety
 
-### Prerequisites
+### Prerequisites for running app
 
 ```
 sudo apt-get install cmake g++
